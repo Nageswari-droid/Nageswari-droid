@@ -5,7 +5,7 @@ I am a web developer with experience in developing single page applications. Rec
 📫 You can reach me on,
 <br>
 <br>
-&nbsp; &nbsp;[:octocat:](https://https://github.com/Nageswari-droid) &nbsp;
+&nbsp; &nbsp;[:octocat:](https://github.com/Nageswari-droid) &nbsp;
 <a href="https://www.linkedin.com/in/nageswari-sv/"><img src="https://user-images.githubusercontent.com/65342122/102697262-9ccb6f80-425a-11eb-8588-3e17ec8ba8c5.png" alt="linkedin" height="18" width="18"></img></a> &nbsp;
 <a href="https://twitter.com/coolnacha99"><img src="https://user-images.githubusercontent.com/65342122/102697519-4fe89880-425c-11eb-9e8f-c49641905025.png" alt="Twitter" height="20" width="20"></img></a>&nbsp;
 
