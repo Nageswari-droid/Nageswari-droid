@@ -10,8 +10,8 @@ Developed my first progressive app for [gitconvex](https://gitconvex.com/) with 
 📫 You can reach me on,
 <br>
 <br>
-[![github](https://img.icons8.com/cute-clipart/64/000000/github.png)](https://github.com/Nageswari-droid)
-[![linkedin](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/nageswari-sv)
+[![github](https://img.icons8.com/cute-clipart/64/000000/github.png)](https://github.com/Nageswari-droid)&nbsp; 
+[![linkedin](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/nageswari-sv)&nbsp;
 [![twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/coolnacha99)
 
 [![Nageswari's github stats](https://github-readme-stats.vercel.app/api?username=Nageswari-droid&count_private=true&theme=merko)](https://github.com/Nageswari-droid)
