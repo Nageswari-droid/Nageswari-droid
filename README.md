@@ -10,8 +10,8 @@ Developed my first progressive app for [gitconvex](https://gitconvex.com/) with 
 📫 You can reach me on,
 <br>
 <br>
-[![github](https://img.icons8.com/cute-clipart/64/000000/github.png)](https://github.com/Nageswari-droid)&nbsp; 
-[![linkedin](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/nageswari-sv)&nbsp;
+[![github](https://img.icons8.com/cute-clipart/64/000000/github.png)](https://github.com/Nageswari-droid)&nbsp; &nbsp;
+[![linkedin](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/nageswari-sv)&nbsp; &nbsp;
 [![twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/coolnacha99)
 
 [![Nageswari's github stats](https://github-readme-stats.vercel.app/api?username=Nageswari-droid&count_private=true&theme=merko)](https://github.com/Nageswari-droid)
@@ -23,4 +23,5 @@ Developed my first progressive app for [gitconvex](https://gitconvex.com/) with 
 ## Contributions
 
 [![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=merko)](https://github.com/neel1996/gitconvex)
+&nbsp; &nbsp;
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=merko)](https://github.com/neel1996/langline)
