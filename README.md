@@ -1,13 +1,18 @@
 ### Hi there earthlings :alien:
 
-I am a web developer with experience in developing single page applications. Recently started contributing to an open source projects([gitconvex](https://github.com/neel1996/gitconvex), [langline](https://github.com/neel1996/langline)) and developed my first progressive app for [gitconvex](https://gitconvex.com/) with :atom_symbol: react. Some languages I am enjoy working with :coffee: Java, :skull: HTML , :nail_care: CSS and :brain: Javascript.
+I am a web developer with experience in developing single page applications. Recently contributed for the following open-source projects 
+
+- [gitconvex](https://github.com/neel1996/gitconvex)
+- [langline](https://github.com/neel1996/langline) 
+
+Developed my first progressive app for [gitconvex](https://gitconvex.com/) with :atom_symbol: react. Some languages I enjoy working with are :coffee: Java, :skull: HTML , :nail_care: CSS and :brain: Javascript.
 
 📫 You can reach me on,
 <br>
 <br>
-&nbsp; &nbsp;[:octocat:](https://github.com/Nageswari-droid) &nbsp;
-<a href="https://www.linkedin.com/in/nageswari-sv/"><img src="https://user-images.githubusercontent.com/65342122/102697262-9ccb6f80-425a-11eb-8588-3e17ec8ba8c5.png" alt="linkedin" height="18" width="18"></img></a> &nbsp;
-<a href="https://twitter.com/coolnacha99"><img src="https://user-images.githubusercontent.com/65342122/102697519-4fe89880-425c-11eb-9e8f-c49641905025.png" alt="Twitter" height="20" width="20"></img></a>&nbsp;
+[![github](https://img.icons8.com/cute-clipart/64/000000/github.png)](https://github.com/Nageswari-droid)
+[![linkedin](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/nageswari-sv)
+[![twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/coolnacha99)
 
 [![Nageswari's github stats](https://github-readme-stats.vercel.app/api?username=Nageswari-droid&count_private=true&theme=merko)](https://github.com/Nageswari-droid)
 
