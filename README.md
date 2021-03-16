@@ -5,7 +5,7 @@ I am a web developer with experience in developing single page applications. Rec
 - [gitconvex](https://github.com/neel1996/gitconvex)
 - [langline](https://github.com/neel1996/langline) 
 
-Developed my first progressive app for [gitconvex](https://gitconvex.com/) with :atom_symbol: react. Some languages I enjoy working with are :coffee: Java, :skull: HTML , :nail_care: CSS and :brain: Javascript.
+Developed my first progressive app for [gitconvex](https://gitconvex.com/) with :atom_symbol: react. Some languages I enjoy working with are :coffee: Java, :skull: HTML , :nail_care: CSS and :brain: Javascript - :atom_symbol: ReactJs and :leaves: NodeJs.
 
 📫 You can reach me on,
 <br>
