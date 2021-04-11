@@ -18,7 +18,7 @@ Developed my first progressive app for [gitconvex](https://gitconvex.com/) with 
 
 ## Core Ingredients
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nageswari-droid&layout=compact&theme=merko&hide=css)](https://github.com/Nageswari-droid)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nageswari-droid&layout=compact&theme=merko&hide=css,html)](https://github.com/Nageswari-droid)
 
 ## Contributions
 
