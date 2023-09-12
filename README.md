@@ -18,10 +18,9 @@ I am a Full-stack developer, proficient in constructing applications utilizing R
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> 
 
-[![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=onedark)](https://github.com/neel1996/gitconvex)
-[![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=onedark)](https://github.com/neel1996/langline)
-[![mimock](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=onedark)](https://github.com/arbindo/mimock)
-[![Locache](https://github-readme-stats.vercel.app/api?username=Nageswari-droid&repo=Locache&theme=onedark)](https://github.com/Nageswari-droid/Locache)
+[![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=merko)](https://github.com/neel1996/gitconvex)
+[![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=merko)](https://github.com/neel1996/langline)
+[![mimock](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=merko)](https://github.com/arbindo/mimock)
 
 
 
