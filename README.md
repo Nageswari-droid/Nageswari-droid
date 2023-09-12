@@ -1,6 +1,6 @@
 ### Hi there earthlings :alien:
 
-I am a Full-stack developer, proficient in constructing applications utilizing React JS, Swift, Flutter, Node JS, Java, and Python. I boast two years of professional experience, where I played a key role in enhancing a consumer-facing banking application. My background in web and mobile development extends since 2021, and I've played a substantial role in advancing three notable open-source projects.
+I am a Full-stack developer, proficient in constructing applications utilizing React JS, Swift, Flutter, Node JS, Java, and Python. I boast two years of professional experience, where I played a key role in enhancing a consumer-facing banking application. My background in web and mobile development has extended since 2021, and I've played a substantial role in advancing three notable open-source projects.
 
 📫 You can reach me on,
 
