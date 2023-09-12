@@ -21,7 +21,7 @@ I am a Full-stack developer, proficient in constructing applications utilizing R
 [![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=onedark)](https://github.com/neel1996/gitconvex)
 [![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=onedark)](https://github.com/neel1996/langline)
 [![mimock](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=onedark)](https://github.com/arbindo/mimock)
-[![Locache](https://github-readme-stats-git-master.Nageswari-droid.vercel.app/api/pin/?username=Nageswari-droid&repo=Locache&theme=onedark)](https://github.com/Nageswari-droid/Locache)
+[![Locache](https://github-readme-stats.vercel.app/api?username=Nageswari-droid&repo=Locache&theme=onedark)](https://github.com/Nageswari-droid/Locache)
 
 
 
