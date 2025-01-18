@@ -1,6 +1,6 @@
 ### Hi there earthlings :alien:
 
-I am a Full-stack developer, proficient in constructing applications utilizing React JS, Swift, Flutter, Node JS, Java, and Python. I boast two years of professional experience, where I played a key role in enhancing a consumer-facing banking application. My background in web and mobile development has extended since 2021, and I've played a substantial role in advancing three notable open-source projects.
+I am a Full-stack developer, proficient in constructing applications utilizing React JS, Swift, Flutter, Node JS, Java, and Python. I have two years of professional experience, where I played a key role in enhancing a consumer-facing banking application. My background in web and mobile development has extended since 2021, and I've played a substantial role in advancing three notable open-source projects.
 
 📫 You can reach me on,
 
@@ -18,9 +18,8 @@ I am a Full-stack developer, proficient in constructing applications utilizing R
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> 
 
-[![gitconvex](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=merko)](https://github.com/neel1996/gitconvex)
-[![langline](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=neel1996&repo=langline&theme=merko)](https://github.com/neel1996/langline)
-[![mimock](https://github-readme-stats-git-master.neel1996.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=merko)](https://github.com/arbindo/mimock)
-
-
-
+[![Note Cracker](https://github-readme-stats.vercel.app/api/pin/?username=Nageswari-droid&repo=NoteCracker&theme=merko)](https://github.com/Nageswari-droid/NoteCracker)
+[![gitconvex](https://github-readme-stats.vercel.app/api/pin/?username=neel1996&repo=gitconvex&theme=merko)](https://github.com/neel1996/gitconvex)
+[![locache](https://github-readme-stats.vercel.app/api/pin/?username=Nageswari-droid&repo=locache&theme=merko)](https://github.com/Nageswari-droid/Locache)
+[![mimock](https://github-readme-stats.vercel.app/api/pin/?username=arbindo&repo=mimock&theme=merko)](https://github.com/arbindo/mimock)
+[![langline](https://github-readme-stats.vercel.app/api/pin/?username=neel1996&repo=langline&theme=merko)](https://github.com/neel1996/langline)
